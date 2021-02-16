@@ -3,12 +3,12 @@ from twilio.rest import Client
 
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-TWILIO_SID = "ACaee9a94dee3c4bff1bdef858214be6bc"
-TWILIO_TOKEN = "429cf99ca4145c3e0c0ead74058092bc"
+TWILIO_SID = "TWILIO SID"
+TWILIO_TOKEN = "TWILIO TOKEN"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-MY_API_KEY = "MYQJQWESXTCNYO3I"
+MY_API_KEY = "ALPHAVANTAGE API KEY"
 NEWS_API_KEY = "551a17be657a419396f0904817c4a4c7"
 
 stock_params = {
